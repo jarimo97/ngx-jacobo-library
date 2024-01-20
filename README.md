@@ -1,7 +1,7 @@
 # ngx-jacobo-library
 
 
-How to build a new library in the git repo :
+How to build a new library in the git repo ngx-jacobo-library:
 
 1- Create a workspace:
 
