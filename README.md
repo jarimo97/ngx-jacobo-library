@@ -1,9 +1,4 @@
 # ngx-jacobo-library
-test for my first angular library
-
-token:
-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
-
 
 
 How to build a new library in the git repo :
@@ -66,7 +61,7 @@ add
 
 7- Create .npmrc file in your library folder (./projects/ngx-jacobo-lib2), include:
 
-//npm.pkg.github.com/:_authToken=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
+//npm.pkg.github.com/:_authToken=YOUR_GITHUB_TOKEN_HERE
 @jarimo97:registry=https://npm.pkg.github.com/
 
 
